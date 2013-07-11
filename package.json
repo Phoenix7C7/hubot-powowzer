@@ -28,7 +28,8 @@
     "hubot-scripts": "2.4.6",
     "htmlparser": "",
     "soupselect": "",
-    "xml2js": ""
+    "xml2js": "",
+    "nodepie": ""
   },
 
   "engines": {
