@@ -29,7 +29,11 @@
     "htmlparser": "",
     "soupselect": "",
     "xml2js": "",
-    "nodepie": ""
+    "nodepie": "",
+    "scraper": "",
+    "jsdom": "",
+    "underscore": "",
+    "cheerio": ""
   },
 
   "engines": {
